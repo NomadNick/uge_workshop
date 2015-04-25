@@ -1,0 +1,10 @@
+git init only needs to be run once for a repo to be tracked.
+
+git status can be run as often as possible.
+
+We have learned that 'touch' is the command we use to create a blank file inside the new branch.
+
+Afterward, we can use ls -l to verify its existence.
+
+Then launch with subl 'file_name'
+
