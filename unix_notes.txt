@@ -24,7 +24,7 @@ history
 # gives status of git files
 git status
 
-#
+# will open up the manual for ls command
 man ls
 ls -r
 -r
